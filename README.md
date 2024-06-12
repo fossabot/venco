@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVictorPronchev%2Fvenco.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FVictorPronchev%2Fvenco?ref=badge_shield)
+
 Venco - Open Bicycle Computer
 
 Arduino based bike system analyzing the state of the bike - acceleration, stop, turn direction.
@@ -8,3 +10,7 @@ The device is equipped with a free slot which allows plugging a wireless module 
 Instructables are available here: http://www.instructables.com/id/Venco/
 
 Hardware is available here: https://www.indiegogo.com/projects/2072970/x/2607982?secret_perk_token=0aabce4d
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVictorPronchev%2Fvenco.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FVictorPronchev%2Fvenco?ref=badge_large)
